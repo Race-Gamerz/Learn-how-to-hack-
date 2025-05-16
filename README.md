@@ -23,6 +23,6 @@ This repository contains scripts and tools for:
 1. **Legal Compliance**: Ensure you have written permission before testing any system.
 2. **Installation**:  
    ```bash
-   git clone https://github.com/your-repo/ethical-hacking-tools.git
+   git clone https://github.com/Race-Gamerz/Learn-how-to-hack-
    cd ethical-hacking-tools
    pip install -r requirements.txt
